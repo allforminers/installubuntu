@@ -10,7 +10,7 @@ add-apt-repository ppa:bitcoin/bitcoin -y
 apt update
 sudo apt install libdb4.8-dev libdb4.8++-dev -y
 sudo apt install libminiupnpc-dev -y
-apt-get install zlib1g-dev -y
-apt-get install libssl1.0-dev -y
+sudo apt-get install zlib1g-dev -y
+sudo apt-get install libssl1.0-dev -y
 
 echo 'done install'
