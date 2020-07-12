@@ -13,8 +13,4 @@ sudo apt install libminiupnpc-dev -y
 sudo apt-get install zlib1g-dev -y
 sudo apt-get install libssl1.0-dev -y
 
-sudo add-apt-repository ppa:chris-lea/redis-server -y
-sudo apt-get update
-sudo apt -y install redis-server -y
-
-echo 'done install'
+echo 'Complete install'
