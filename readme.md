@@ -1,3 +1,5 @@
+apt install git
+
 git clone https://github.com/allforminers/installubuntu.git
 
 cd installubuntu
